@@ -1,4 +1,4 @@
-package Vending.Dao;
+package Vending.Service;
 
 public class OutOfStockException extends Exception{
 
